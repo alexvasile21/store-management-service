@@ -27,5 +27,9 @@ Operations:
     Method: DELETE
     Request:
       - url: /api/v1/product/{id}
+
+
+More details and examples of each operation here: https://github.com/alexvasile21/store-management-service/blob/dvlp/store-management-api/src/main/resources/swagger/products-swagger.yaml (use https://editor.swagger.io/ for instant visualisation).
+
       
       
